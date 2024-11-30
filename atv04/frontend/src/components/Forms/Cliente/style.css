@@ -1,0 +1,34 @@
+@import "../../../style/variaveis.css";
+
+form.cadastrar-cliente{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.input-rg{
+    display: flex;
+    gap: 0.5rem;
+}
+
+
+div.input-rg > div > button > span, div.input-rg > button > span.MuiButton-icon.MuiButton-startIcon.MuiButton-iconSizeMedium.css-1jsm74t-MuiButton-startIcon{
+    margin: 0 !important;
+}
+
+.formControl-telefone{
+    display: flex;
+    flex-direction: row !important;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.remove-action{
+    min-width: fit-content !important;
+    padding: 0.2rem !important;
+}
+
+div.telefones-section > div > button > span.MuiButton-icon.MuiButton-startIcon.MuiButton-iconSizeMedium.css-1jsm74t-MuiButton-startIcon{
+    margin: 0 !important;
+}
