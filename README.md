@@ -14,6 +14,7 @@ Bem-vindo ao repositório do **PetLovers**! Este repositório contém as ativida
 
 2. Execute o comando para iniciar:
    ```bash
+    npx tsc
     node .\out\app\main.js
    ```
 
