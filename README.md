@@ -14,6 +14,7 @@ Bem-vindo ao repositório do **PetLovers**! Este repositório contém as ativida
 
 2. Execute o comando para iniciar:
    ```bash
+    npm install
     npx tsc
     node .\out\app\main.js
    ```
@@ -26,6 +27,7 @@ Bem-vindo ao repositório do **PetLovers**! Este repositório contém as ativida
 
 2. Execute o comando para iniciar:
    ```bash
+   npm install
     npm start
    ```
 
@@ -37,6 +39,7 @@ Bem-vindo ao repositório do **PetLovers**! Este repositório contém as ativida
 
 2. Execute o comando para iniciar:
    ```bash
+    npm install
     npm start
    ```
 
@@ -54,6 +57,7 @@ Bem-vindo ao repositório do **PetLovers**! Este repositório contém as ativida
 
 3. Execute os comandos para iniciar o frontend:
    ```bash
+      npm install
       cd frontend
       npm start
    ```
@@ -75,11 +79,13 @@ Bem-vindo ao repositório do **PetLovers**! Este repositório contém as ativida
 3. Execute os comandos para iniciar o backend:
    ```bash
       cd backend
+      npm install
       npm start
    ```
 
 4. Execute os comandos para iniciar o frontend:
    ```bash
       cd frontend
+      npm install
       npm start
    ```
